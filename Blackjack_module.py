@@ -161,3 +161,5 @@ def choose_bet(player):
 			print("\n")
 	
 	return pot
+
+#Hi! So I hope you enjoy this little game. I know it's still rough but I learnt quite a lot making it.
